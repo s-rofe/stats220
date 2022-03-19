@@ -1,18 +1,28 @@
 # My Meme Report
 
-![my_meme](my_meme.png)
+![behold](https://media0.giphy.com/media/NlWRgss4w0pfjW2CYb/giphy.gif?cid=ecf05e47be2gzfv2vkxwcn9q53cx836bqh5g5qpnyoiztdip&rid=giphy.gif&ct=g)
+![my_meme](my_meme.png)  
+*(right)* My Meme! - `meme.R`
 
 ## About the Meme
 This meme is based on popular meme formats and themes including:
 - Panel based memes
 - Memes where a situation gets progressively worse
 
-### Some Example Formats
+
+The motivation for this was student burnout and work-life balance.  
+Many students begin to feel exhausted in week 3 of the semester when the first deadlines start to loom closer on the horizon.  
+I felt that adapting paneled meme formats would best express this idea, as it would allow me to communicate the phases of accumulated stress, through the panels.
+
+
+### Some Example Inspiration Formats
+---
 ![Running Away Balloon](https://www.meme-arsenal.com/memes/28b09512dcf0befffe93f1122a59f5ef.jpg)
 ![Stress Meme](https://preview.redd.it/fm6m83jlivm81.jpg?width=314&format=pjpg&auto=webp&s=a9530ffbc50550df55a955fa812df538d7d01ef9)
-![Dog Drake Meme](https://i.redd.it/apoxc0itrhr71.png)
+
 
 ### Image Sources
+---
 The images used in my meme are from the website [Unsplash](https://unsplash.com/), which provides freely-usable images
 1. [The first panel image](https://unsplash.com/photos/tnqOVFEskW8) by [James Tiono](https://unsplash.com/@jamestiono?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
